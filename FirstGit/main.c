@@ -8,7 +8,7 @@ int main() {
     while (1) {
         playgame();
 
-        printf("계속하시겠습니까, 그만하시겠습니까 ");
+        printf("계속하시겠습니까 그만하시겠습니까 ");
         scanf("%s", retry);
 
         if (strcmp(retry, "그만") == 0) {
