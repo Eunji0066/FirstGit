@@ -30,6 +30,9 @@
     <ClCompile Include="..\..\임시폴더\C\03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\Downloads\main\Study.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
