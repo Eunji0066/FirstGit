@@ -127,10 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Downloads\main\Study.c" />
-    <ClCompile Include="..\..\임시폴더\C\01.c" />
-    <ClCompile Include="..\..\임시폴더\C\02.c" />
-    <ClCompile Include="..\..\임시폴더\C\03.c" />
+    <ClCompile Include="01.c" />
     <ClCompile Include="definition.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
