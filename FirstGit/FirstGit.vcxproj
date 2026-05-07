@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7a5bd16c-2db3-4d5a-a875-5d7a580176b1}</ProjectGuid>
+    <ProjectGuid>{ABCACC30-B67F-DE83-A219-5A85BCC505EF}</ProjectGuid>
     <RootNamespace>FirstGit</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01.c" />
     <ClCompile Include="definition.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>

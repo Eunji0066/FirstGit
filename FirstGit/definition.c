@@ -1,4 +1,4 @@
-#include "header.h"
+/*#include "header.h"
 
 void playgame() {
     char userchoice[10];
@@ -46,3 +46,4 @@ void playgame() {
         printf("잘못된 입력입니다\n");
     }
 }
+*/
