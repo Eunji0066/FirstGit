@@ -135,9 +135,12 @@
     <ClCompile Include="06.c" />
     <ClCompile Include="07.c" />
     <ClCompile Include="08.c" />
+    <ClCompile Include="1_1.c" />
+    <ClCompile Include="1_2.c" />
     <ClCompile Include="C:\Users\Eunji\Downloads\main\9Week.c" />
     <ClCompile Include="definition.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="print_power_with_N.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />
