@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="FirstGit/FirstGit.vcxproj" />
+  <Project Path="FirstGit/FirstGit.vcxproj" Id="7a5bd16c-2db3-4d5a-a875-5d7a580176b1" />
 </Solution>
