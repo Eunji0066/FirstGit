@@ -13,16 +13,61 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Exam_EggService">
+      <UniqueIdentifier>{698b2892-7438-4449-8a4a-ef22258e74e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Print_Power_N">
+      <UniqueIdentifier>{2a2808b9-8a9e-4c73-b1df-937427ff081e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\RPS">
+      <UniqueIdentifier>{aa36f2df-39bb-4394-bbe9-a7a6b0e2af2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\HelloWorld">
+      <UniqueIdentifier>{28d2d871-5c22-4f76-a834-0b029ade6c0c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Exam_EggService.c1_1.c">
+      <Filter>소스 파일\Exam_EggService</Filter>
     </ClCompile>
-    <ClCompile Include="definition.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Exam_EggService.c1_2.c">
+      <Filter>소스 파일\Exam_EggService</Filter>
+    </ClCompile>
+    <ClCompile Include="Print_Power_N.c">
+      <Filter>소스 파일\Print_Power_N</Filter>
+    </ClCompile>
+    <ClCompile Include="RPS_definition.c">
+      <Filter>소스 파일\RPS</Filter>
+    </ClCompile>
+    <ClCompile Include="RPS_main.c">
+      <Filter>소스 파일\RPS</Filter>
     </ClCompile>
     <ClCompile Include="01.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\HelloWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="02.c">
+      <Filter>소스 파일\HelloWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="03.c">
+      <Filter>소스 파일\HelloWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="04.c">
+      <Filter>소스 파일\HelloWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="05.c">
+      <Filter>소스 파일\HelloWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="06.c">
+      <Filter>소스 파일\HelloWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="07.c">
+      <Filter>소스 파일\HelloWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="08.c">
+      <Filter>소스 파일\HelloWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eunji\Downloads\main\9Week.c">
+      <Filter>소스 파일\HelloWorld</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
